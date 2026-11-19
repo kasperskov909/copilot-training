@@ -37,3 +37,6 @@ Program.cs refactor seperation of concern
 ## Code review
 
 ## Documentation
+- Readme
+- PR description
+- Release notes
